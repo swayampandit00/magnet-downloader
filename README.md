@@ -244,20 +244,6 @@ eas login
 
 Browser khulega (ya email/password). Login ke baad:
 
-```bash
-eas whoami
-```
-
-### Step 1 — project unzip / clone
-
-Source zip: `https://5173-016bb285b92f88f8.monkeycode-ai.live/magnet-downloader.zip`
-
-```bash
-unzip magnet-downloader.zip
-cd magnet-downloader
-```
-
-Expo app folder `app/` hai, root nahi.
 
 ### Step 2 — WebView ke liye public URL taiyar karo
 
