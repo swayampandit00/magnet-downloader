@@ -1,0 +1,16 @@
+node_modules/
+web/node_modules/
+app/node_modules/
+downloads/
+social-downloads/
+data/*.json
+data/*.tmp
+*.log
+.DS_Store
+.expo/
+app/.expo/
+dist/
+web/dist/
+web/public/magnet-downloader.zip
+.env
+app/.env
